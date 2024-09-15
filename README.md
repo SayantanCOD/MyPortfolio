@@ -1,2 +1,2 @@
 # MyPortfolio
-A responsive portfolio website built using HTML, CSS, and JavaScript.
+This is my personal portfolio website built using HTML, CSS, and JavaScript. It includes sections for my bio, skills, projects, education, and contact form with form validation. The design is responsive, with a clean and modern layout, featuring smooth navigation and interactive elements. The website serves as a showcase of my web development skills and academic journey. Feel free to explore or use this as inspiration for your own portfolio!
