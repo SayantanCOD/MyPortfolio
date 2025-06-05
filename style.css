@@ -310,7 +310,7 @@ text-align: center;
     min-height: auto;
     padding-bottom: 7rem;
     background: var(--second-bg-color);
-    padding-top: 100px; /* Add space at the top */
+    padding-top: 30px; /* Add space at the top */
     scroll-margin-top: 100px;
 }
 
