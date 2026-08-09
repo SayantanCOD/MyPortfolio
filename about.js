@@ -1,7 +1,7 @@
 // Type headre2
 
 const typed = new Typed('.multiple-text', {
-    strings: ['BCA Graduate','TCS Ignite Certified','Tech Enthusiast','Backend Aspirant'], // Corrected to 'strings'
+    strings: ['GIS Analyst','TCS Ignite Certified','BCA Graduate','Tech Enthusiast','Backend Aspirant'], // Corrected to 'strings'
     typeSpeed: 70,  // Corrected from 'typed' to 'typeSpeed'
     backSpeed: 70,
     backDelay: 1000,
