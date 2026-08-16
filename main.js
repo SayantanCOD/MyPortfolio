@@ -126,9 +126,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
         // Send the email
         Email.send({
-            SecureToken :"4779c61d-0e20-4f3e-82c9-1b9cc19d5244",
-            To: 'senamondal4@gmail.com', 
-            From: 'senamondal4@gmail.com', 
+            SecureToken :"ADD_Your_SecureToken", // Add SecureToken
+            To: 'your@gmail.com', // add email
+            From: 'your@gmail.com',  // add email 
             Subject: subject, 
             Body: bodyMessage
         }).then(
